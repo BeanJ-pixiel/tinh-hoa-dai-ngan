@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Cà phê Robusta Buôn Ma Thuột",
+    "category": "Cà phê",
+    "price": 120000,
+    "unit": "gói 500g",
+    "origin": "Đắk Lắk",
+    "description": "Cà phê Robusta rang mộc, trồng trên đất đỏ bazan, vị đậm đắng đặc trưng và hương thơm nồng nàn của cao nguyên."
+  },
+  {
+    "id": 2,
+    "name": "Hồ tiêu Chư Sê xay",
+    "category": "Gia vị",
+    "price": 95000,
+    "unit": "hộp 300g",
+    "origin": "Gia Lai",
+    "description": "Hạt tiêu đen chắc, cay nồng, được xem là một trong những loại tiêu ngon nhất Việt Nam."
+  },
+  {
+    "id": 3,
+    "name": "Mật ong rừng Tây Nguyên",
+    "category": "Mật ong",
+    "price": 250000,
+    "unit": "chai 500ml",
+    "origin": "Đắk Nông",
+    "description": "Mật ong nguyên chất khai thác từ rừng nguyên sinh, vị ngọt thanh, giàu dưỡng chất tự nhiên."
+  },
+  {
+    "id": 4,
+    "name": "Sầu riêng sấy dẻo",
+    "category": "Trái cây sấy",
+    "price": 180000,
+    "unit": "hộp 200g",
+    "origin": "Đắk Lắk",
+    "description": "Sầu riêng chín cây sấy dẻo bằng công nghệ sấy lạnh, giữ trọn hương vị béo ngậy tự nhiên."
+  },
+  {
+    "id": 5,
+    "name": "Hạt mắc ca Đắk Lắk",
+    "category": "Hạt khô",
+    "price": 210000,
+    "unit": "hộp 400g",
+    "origin": "Đắk Lắk",
+    "description": "Hạt mắc ca rang củi, béo bùi, giòn tan, giàu omega và dưỡng chất tốt cho sức khỏe."
+  },
+  {
+    "id": 6,
+    "name": "Thổ cẩm Ê Đê thủ công",
+    "category": "Thủ công mỹ nghệ",
+    "price": 350000,
+    "unit": "tấm",
+    "origin": "Đắk Lắk",
+    "description": "Vải thổ cẩm dệt tay theo hoa văn truyền thống của người Ê Đê, sắc màu rực rỡ, mang đậm bản sắc văn hóa."
+  },
+  {
+    "id": 7,
+    "name": "Rượu Vang Ngọt Sim Măng Đen",
+    "category": "Đồ uống",
+    "price": 150000,
+    "unit": "chai 500ml",
+    "origin": "Kon Tum",
+    "description": "Rượu vang ngọt được làm từ quả sim rừng Măng Đen, có vị ngọt dịu, hương thơm đặc trưng của sim và thảo mộc."                     
+  },
+  {
+    "id":8,
+    "name": "Rượu cần Tây Nguyên",
+    "category": "Đồ uống",
+    "price": 300000,
+    "unit": "chai 750ml",
+    "origin": "Đắk Lắk",
+    "description": "Rượu cần truyền thống của người dân Tây Nguyên, được lên men từ gạo nếp và thảo mộc, hương vị đặc trưng."
+  },
+  {
+    "id":9,
+    "name": "Bột nghệ Đắk Lắk",
+    "category": "Gia vị",
+    "price": 80000,
+    "unit": "gói 200g",
+    "origin": "Đắk Lắk",
+    "description": "Bột nghệ nguyên chất, được sấy khô và xay mịn, giữ nguyên màu vàng tươi và hương thơm đặc trưng."
+  },
+  {
+    "id":10,
+    "name": "Trà atiso đỏ Lâm Đồng",
+    "category": "Trà thảo mộc",
+    "price": 90000,
+    "unit": "hộp 100g",
+    "origin": "Lâm Đồng",
+    "description": "Trà atiso đỏ được sấy khô từ hoa atiso tươi, giúp thanh nhiệt, giải độc và tốt cho gan."
+  }
+]
