@@ -20,42 +20,21 @@ Tách riêng HTML, CSS, JavaScript, dữ liệu và hình ảnh để dễ quả
 
 2. Công nghệ sử dụng
 
-Công nghệ
+HTML5:Xây dựng cấu trúc các trang web
 
-Mục đích
+CSS: Thiết kế giao diện và bố cục
 
-HTML5
+JavaScript: Xử lý tương tác và logic của website
 
-Xây dựng cấu trúc các trang web
+JSON: Lưu trữ dữ liệu sản phẩm
 
-CSS3
+Git: Quản lý phiên bản mã nguồn
 
-Thiết kế giao diện và bố cục
-
-JavaScript
-
-Xử lý tương tác và logic của website
-
-JSON
-
-Lưu trữ dữ liệu sản phẩm
-
-Git
-
-Quản lý phiên bản mã nguồn
-
-npm
-
-Quản lý/cấu hình dự án nếu cần mở rộng
+npm: Quản lý/cấu hình dự án nếu cần mở rộng
 
 3. Cấu trúc thư mục
 
 tinh-hoa-dai-ngan/
-│
-├── HTML/
-│   ├── index.html       # Trang chủ
-│   ├── detail.html      # Trang chi tiết sản phẩm
-│   └── contact.html     # Trang liên hệ
 │
 ├── CSS/
 │   ├── style.css        # CSS chính
@@ -79,6 +58,9 @@ tinh-hoa-dai-ngan/
 ├── assets/              # Tài nguyên bổ sung của dự án
 ├── .gitignore           # Các file/thư mục Git bỏ qua
 ├── package.json         # Thông tin cấu hình dự án
+├── index.html       # Trang chủ
+├── detail.html      # Trang chi tiết sản phẩm
+├── contact.html     # Trang liên hệ
 └── README.md            # Tài liệu hướng dẫn dự án
 
 
@@ -226,8 +208,3 @@ Tối ưu responsive cho điện thoại, máy tính bảng và máy tính.
 
 Bổ sung xác thực và quản lý tài khoản người dùng.
 
-11. Tác giả
-
-Dự án: Tinh Hoa Đại Ngàn
-
-README này được xây dựng dựa trên cấu trúc và các thành phần có trong file dự án tinh-hoa-dai-ngan.rar.
